@@ -17,7 +17,9 @@
   <a href='https://arxiv.org/abs/2503.13360'><img src='https://img.shields.io/badge/Arxiv-2503.13360-b31b1b.svg?logo=arXiv'></a>
   <a href='https://huggingface.co/Allen8/TVC-72B'><img src='https://img.shields.io/badge/🤗-TVC_72B-green'></a>
   <a href='https://huggingface.co/datasets/Allen8/TVC-Data'><img src='https://img.shields.io/badge/TVC-Data-purple'></a>
-  <a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsun-hailong%2FTVC&count_bg=%23FFA500&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"></a>
+  <!-- <a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsun-hailong%2FTVC&count_bg=%23FFA500&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"></a>-->
+  <a href="https://hits.sh/github.com/sun-hailong/TVC/"><img alt="Hits" src="https://hits.sh/github.com/sun-hailong/TVC.svg?view=today-total"/></a>
+
 </p>
 
 ---
