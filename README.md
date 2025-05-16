@@ -26,6 +26,8 @@
 
 ## 📢 News
 
+- 🎉[15/5/2025] TVC is accepted by ACL 2025 main track.
+
 - 🎉[18/3/2025] The TVC is released! Check our [project page](https://sun-hailong.github.io/projects/TVC/), [model weights](https://huggingface.co/Allen8/TVC-72B), [arXiv paper](https://arxiv.org/pdf/2503.13360) for the strong multi-modal reasoning model!
 
 - 🔥[06/3/2025] We release the training data and model, welcome to have a try!
