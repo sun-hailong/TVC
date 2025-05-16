@@ -154,11 +154,11 @@ bash tvc-sft/scripts/train_qwen2vl_72b.sh
 
 If you find it useful for your research and applications, please cite our paper using this BibTeX:
 ```bibtex
-@article{sun2024mitigating,
-    title={Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning},
-    author={Sun, Hai-Long and Sun, Zhun and Peng, Houwen and Ye, Han-Jia},
-    journal={arXiv preprint arXiv:2503.13360},
-    year={2025}
+@inproceedings{sun2025mitigating,
+  title={Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning},
+  author={Sun, Hai-Long and Sun, Zhun and Peng, Houwen and Ye, Han-Jia},
+  booktitle={ACL},
+  year={2025}
 }
 ```
 
